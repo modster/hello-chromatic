@@ -1,0 +1,15 @@
+{
+  "name": "hello-chromatic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build-storybook": "ng run hello-chromatic:build-storybook"
+    },
+  "keywords": [],
+  "author": "E.M. Greeff <emgreeff@datadrivendashboards.com>",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "chromatic": "^6.5.1"
+  }
+}
